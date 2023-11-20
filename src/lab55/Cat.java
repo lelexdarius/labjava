@@ -43,8 +43,7 @@ public class Cat {
         this.age = age;
         this.energyLevel=3;
         this.hungerLevel=3;
-        this.moodLevel=3;
-    }
+        this.moodLevel=3;    }
 
     public void play(){
         this.moodLevel++;
